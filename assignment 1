@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Simple PhD Application Letter</title>
+</head>
+<body>
+    <h1>Re: PhD Application</h1>
+
+    <p><strong>Dr. John Smith</strong><br>
+    Department of Research<br>
+    Example University<br>
+    123 Academic Lane, Knowledge City<br>
+    BC 56789<br>
+    Tel: +1-234-567-890<br>
+    Email: phd-admissions@example.com<br>
+    <time datetime="2025-01-24">24 January 2025</time></p>
+
+    <p><strong>Ms. Jane Doe</strong><br>
+    456 Inquiry Ave<br>
+    Learning Town, BC 98765</p>
+
+    <p>Dear Ms. Doe,</p>
+
+    <p>Thank you for applying to our <abbr title="Doctor of Philosophy">PhD</abbr> program. Here are the details you requested:</p>
+
+    <h2>Starting Dates</h2>
+    <ul>
+        <li>1 September 2025</li>
+        <li>15 January 2026</li>
+        <li>10 May 2026</li>
+    </ul>
+
+    <h2>Subjects of Study</h2>
+    <ol>
+        <li>Advanced Quantum Algorithms</li>
+        <li>Biochemical Computing</li>
+        <li>Applications of <abbr title="HyperText Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr></li>
+    </ol>
+
+    <h2>Exotic Dance Research</h2>
+    <ul>
+        <li>Polynesian Chicken Dance</li>
+        <li>Icelandic Brownian Shuffle</li>
+        <li>Arctic Robot Dance</li>
+    </ul>
+
+    <p>For details, visit our <a href="http://example.com" title="Research Page">research page</a>.</p>
+
+    <p>Yours sincerely,<br>
+    <strong>Dr. John Smith</strong></p>
+</body>
+</html>
+
